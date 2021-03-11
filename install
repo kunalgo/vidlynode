@@ -1,0 +1,11 @@
+npm i express       // node modules, package-lock.json,  
+npm init -yes       // package.json
+
+npm i joi@13.1.0    // for installing JOI 
+npm i nodemon       // for auto save
+
+npm i underscore(if needed)
+
+npm list
+npm list --depth=0
+
